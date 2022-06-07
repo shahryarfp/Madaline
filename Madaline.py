@@ -10,7 +10,7 @@ import numpy as np
 import random
 
 #reading file
-my_file = pd.read_csv('D:\\term8\\DL\\HW\\HW1\\Question3.csv', header = None)
+my_file = pd.read_csv('Madaline.csv', header = None)
 X = my_file[0]
 Y = my_file[1]
 x1 = []
